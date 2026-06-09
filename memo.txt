@@ -5,3 +5,8 @@ AWS EC2 backup setup
 Existing server audit
 Docker server readiness review
 Small business AWS infrastructure documentation
+
+I have started building a practical AWS small server readiness toolkit. The first version includes a read-only Ubuntu audit script that generates a Markdown report for server handover, migration, and baseline review.
+
+
+
