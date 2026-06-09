@@ -17,3 +17,7 @@ Docker volume が含まれているか
 サーバ内だけにバックアップを置いていないか
 
 I maintain a practical AWS small server readiness toolkit for reviewing Ubuntu EC2 servers before migration, production use, or handover. It includes a read-only audit script, a security baseline checklist, and backup/restore readiness documentation.
+
+
+監査 → セキュリティ確認 → バックアップ確認 → EC2確認 → Ubuntu改善メモ
+
