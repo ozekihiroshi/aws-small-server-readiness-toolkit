@@ -9,4 +9,11 @@ Small business AWS infrastructure documentation
 I have started building a practical AWS small server readiness toolkit. The first version includes a read-only Ubuntu audit script that generates a Markdown report for server handover, migration, and baseline review.
 
 
+バックアップがあるか
+DBも含まれているか
+EBS snapshotだけで十分か
+restore test をしたか
+Docker volume が含まれているか
+サーバ内だけにバックアップを置いていないか
 
+I maintain a practical AWS small server readiness toolkit for reviewing Ubuntu EC2 servers before migration, production use, or handover. It includes a read-only audit script, a security baseline checklist, and backup/restore readiness documentation.
