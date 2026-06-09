@@ -1,0 +1,7 @@
+WordPress migration to AWS
+Laravel deployment on EC2
+Ubuntu server hardening
+AWS EC2 backup setup
+Existing server audit
+Docker server readiness review
+Small business AWS infrastructure documentation
